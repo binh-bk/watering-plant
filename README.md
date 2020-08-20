@@ -17,4 +17,4 @@ monitor humidity content in soil by a capacitance sensor, a subscribe with an LE
 </p>
 
 # Tutorials
-- A write-up with more information is on [b-io.info]()
+- A write-up with more information is on [b-io.info](https://b-io.info/tutorials/watering-plant/)
